@@ -1,4 +1,4 @@
-# Waitlist – NestJS + Apollo GraphQL (ADM Digital Inc, Backend(Nestjs) Engineer)
+# Waitlist – NestJS + Apollo GraphQL
 
 Small NestJS module for a waitlist feature using Apollo GraphQL: in-memory storage, email validation, and proper GraphQL errors.
 
